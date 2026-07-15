@@ -1,0 +1,6 @@
+USER:
+hi
+
+ASSISTANT:
+Hello. How can I assist you today? Please feel free to ask about any questions or concerns you may have, and I'll do my best to help.
+

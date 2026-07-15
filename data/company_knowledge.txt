@@ -1,0 +1,37 @@
+TechNova Solutions - Customer Support Knowledge Base
+
+1. Password Reset
+If a customer forgets their password, they can click the "Forgot Password" link on the login page. A reset link will be sent to their registered email.
+
+2. Subscription Plans
+We offer Basic, Pro, and Enterprise plans.
+Basic - ₹499/month
+Pro - ₹999/month
+Enterprise - Contact Sales
+
+3. Refund Policy
+Customers can request a refund within 7 days of purchase if they are not satisfied.
+
+4. Contact Support
+Email: keerthimurugan1603@gmail.com
+Phone: +91 8667879368
+
+5. Account Deletion
+Customers can delete their account from Settings > Privacy > Delete Account.
+
+6. Login Issues
+Ensure the email and password are correct.
+Clear browser cache if login fails.
+Reset the password if necessary.
+
+7. Business Hours
+Support is available Monday to Friday from 9:00 AM to 6:00 PM IST.
+
+8. Order Status
+Customers can track orders from Dashboard > Orders.
+
+9. Payment Methods
+We accept UPI, Credit Card, Debit Card and Net Banking.
+
+10. Escalation
+If the chatbot cannot answer confidently, the query will be forwarded to a human support agent.

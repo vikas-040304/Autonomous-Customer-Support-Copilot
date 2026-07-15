@@ -1,0 +1,16 @@
+USER:
+My order number is 12345
+
+ASSISTANT:
+
+📦 Order Details
+
+Order ID : 12345
+
+Customer : Tony
+
+Status : Shipped
+
+Expected Delivery : 18 July 2026
+
+

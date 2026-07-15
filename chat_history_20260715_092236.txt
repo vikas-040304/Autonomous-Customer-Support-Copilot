@@ -1,0 +1,24 @@
+USER:
+My order number is 12345.
+
+ASSISTANT:
+To track the status of your order (12345), you can visit the Dashboard > Orders section. If you need further assistance, please feel free to contact our support team via email at keerthimurugan1603@gmail.com or phone at +91 8667879368, available Monday to Friday from 9:00 AM to 6:00 PM IST.
+
+USER:
+when will it arrive?
+
+ASSISTANT:
+I don't have enough information. Your query will be escalated to a human support agent.
+
+
+🚨 Your query requires assistance from a human support agent.
+
+**Ticket ID:** CS-20260715-8998
+
+📧 Support Email: keerthimurugan1603@gmail.com
+
+⏰ Response Time: Within 24 Hours
+
+Thank you for your patience.
+
+
