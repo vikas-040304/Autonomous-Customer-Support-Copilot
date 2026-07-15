@@ -1,6 +1,0 @@
-USER:
-How do I delete my account permanently?
-
-ASSISTANT:
-To delete your account permanently, you can do so from the Settings section. Specifically, go to Settings > Privacy > Delete Account. This will allow you to permanently delete your account.
-
